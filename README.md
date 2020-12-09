@@ -15,5 +15,5 @@ This is a repository for MAGD 150
 
 ## Lab04 Example 
 
-[Click to see source code](
+[Click to see source code](https://github.com/sam91602/MAGD-150-Assignments/blob/gh-pages/f20magd150lab04_Baumgartner/sketch.js)
 [Click to see HTML](
