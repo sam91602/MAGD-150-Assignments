@@ -4,7 +4,7 @@ This is a repository for MAGD 150
 
 ## Lab08 Example 
 
-The theme for this lab was **Movie Posters**
+The theme for this lab was **_Movie Posters_**
 
 [Click to see source code](https://github.com/sam91602/MAGD-150-Assignments/blob/gh-pages/f20magd150_lab08_Baumgartner/sketch.js)
 
@@ -12,7 +12,7 @@ The theme for this lab was **Movie Posters**
 
 ## Lab03 Example 
 
-The theme for this lab was **Bubbles**
+The theme for this lab was **_Bubbles_**
 
 [Click to see source code](https://github.com/sam91602/MAGD-150-Assignments/blob/gh-pages/f20magd150lab03_baumgartner/sketch.js)
 
@@ -20,7 +20,7 @@ The theme for this lab was **Bubbles**
 
 ## Lab04 Example 
 
-The theme for this lab was **Pizza**
+The theme for this lab was **_Pizza_**
 
 [Click to see source code](https://github.com/sam91602/MAGD-150-Assignments/blob/gh-pages/f20magd150lab04_Baumgartner/sketch.js)
 
@@ -28,7 +28,7 @@ The theme for this lab was **Pizza**
 
 ### Lab06 Example 
 
-The theme for this lab was **Retro Games**
+The theme for this lab was **_Retro Games_**
 
 [Click to see source code](https://github.com/sam91602/MAGD-150-Assignments/blob/gh-pages/f20magd150lab06_Baumgartner/sketch.js)
 
@@ -36,7 +36,7 @@ The theme for this lab was **Retro Games**
 
 ## Lab09 Example 
 
-The theme for this lab was **Mirrors**
+The theme for this lab was **_Mirrors_**
 
 [Click to see source code](https://github.com/sam91602/MAGD-150-Assignments/blob/gh-pages/f20magd150lab09_Baumgartner/sketch.js)
 
