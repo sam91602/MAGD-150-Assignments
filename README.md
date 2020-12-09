@@ -8,4 +8,7 @@ This is a repository for MAGD 150
 
 [Click to see HTML](https://github.com/sam91602/MAGD-150-Assignments/blob/gh-pages/f20magd150_lab08_Baumgartner/index.html)
 
-## Lab04 Example 
+## Lab03 Example 
+
+[Click to see source code](https://github.com/sam91602/MAGD-150-Assignments/blob/gh-pages/f20magd150lab03_baumgartner/sketch.js)
+[Click to see HTML](
