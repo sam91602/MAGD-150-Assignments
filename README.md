@@ -30,4 +30,4 @@ This is a repository for MAGD 150
 
 [Click to see source code](https://github.com/sam91602/MAGD-150-Assignments/blob/gh-pages/f20magd150lab09_Baumgartner/sketch.js)
 
-[Click to see HTML](
+[Click to see HTML](https://github.com/sam91602/MAGD-150-Assignments/blob/gh-pages/f20magd150lab09_Baumgartner/index.html)
