@@ -4,7 +4,7 @@ This is a repository for MAGD 150
 
 ## Lab08 Example 
 
-The theme for this lab was **i dont know**
+The theme for this lab was **Movie Posters**
 
 [Click to see source code](https://github.com/sam91602/MAGD-150-Assignments/blob/gh-pages/f20magd150_lab08_Baumgartner/sketch.js)
 
